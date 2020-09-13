@@ -5,6 +5,6 @@
 ## Description:
 This is the first Flutter application trial using UI designs.
 
-[Download APK]
+[Download APK]https://github.com/Gizemsolum/Flutter-Covid19/blob/master/APK/app-release.apk
 
  
